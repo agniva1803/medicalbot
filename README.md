@@ -1,4 +1,4 @@
-# 🩺 MedicalBot – AI-Driven Symptom Checker
+## 🩺 MedicalBot – AI-Driven Symptom Checker
 
 An intelligent healthcare chatbot system designed to assist users with preliminary medical queries by analyzing symptoms and offering possible diagnoses. This AI-powered chatbot enhances healthcare accessibility, supports early disease detection, and delivers fast, accurate responses using advanced Natural Language Processing (NLP) and machine learning models.
 
